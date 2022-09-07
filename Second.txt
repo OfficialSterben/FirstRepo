@@ -2,3 +2,6 @@ Lots of text
 Second text
 Hello
 I am in intro to computer science class
+Hello
+I am back
+Text 7
