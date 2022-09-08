@@ -5,3 +5,5 @@ Here are more lines of text
 Editing First.txt
 Hello
 .
+Making a change
+done
