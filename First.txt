@@ -1,4 +1,5 @@
-Change commited
+Change commit
+d
 Here is my first file
 I have added some text
 Here are more lines of text
@@ -7,3 +8,4 @@ Hello
 .
 Making a change
 done
+ouou
